@@ -1,1 +1,2 @@
-Hello, hexlet! How are you?
+no code
+я заебался писть хуйню
